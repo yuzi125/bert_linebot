@@ -1,0 +1,8 @@
+用vscode 開啟此專題資料
+
+終端機輸入:python manage.py runserver
+開新終端機輸入:./ngrok http 8000
+
+把https網址丟到line開發軟體 範例:(你的網址)/callback
+
+
