@@ -1,3 +1,5 @@
+![GitHub Logo](https://github.com/yuzi125/bert_linebot/blob/master/68c3483b-aaee-4f2e-a850-33424ee6e881.png)
+
 專案分析與解釋
 
 這是一個淡江大學校務問答LINE Bot系統，結合了Django Web框架和BERT自然語言處理技術。以下是詳細的分析：
