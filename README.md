@@ -48,7 +48,7 @@ ngrok.exe：用於建立本地到公網的tunnel
 用戶發送訊息 → LINE平台
 Webhook觸發 → Django的callback視圖
 文本預處理 → BERT tokenizer
-模型預測 → 分類到149個答案類別之一
+模型預測 → 依據所有類別進行分類，再找出合適答案
 回覆答案 → 透過LINE Bot API發送給用戶
 
 7. 問答分類
